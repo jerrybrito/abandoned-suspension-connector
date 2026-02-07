@@ -1,0 +1,2 @@
+# Requires: theoretical-stasis
+# (Not available on PyPI)
